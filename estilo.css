@@ -20,7 +20,7 @@ h1 {
   color: black;
   left: 55%;
 }
-.menuprincipal { 
+.menuprincipal {
   position: absolute;
   width: 100%;
   height: 30px;
@@ -31,7 +31,7 @@ h1 {
 
 }
 
-nav ul{ 
+nav ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -74,6 +74,14 @@ width: 15%;
   border-style: solid;
   padding: 20px;
 }
+
+.boxtexto{
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+  top: 350px;
+}
 .conteudo {
   position: absolute;
   top: 45px;
@@ -88,5 +96,11 @@ h1 {
   text-align: center;
   font-style: italic;
   width: 0px;
-  
+
+}
+.text {
+    position: absolute;
+    width: 100px;
+    top: 100px
+
 }
