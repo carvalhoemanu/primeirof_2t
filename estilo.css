@@ -95,7 +95,7 @@ width: 15%;
 h1 {
   text-align: center;
   font-style: italic;
-  width: 0px;
+  
 
 }
 .text {
@@ -103,4 +103,7 @@ h1 {
     width: 100px;
     top: 100px
 
+}
+#anime{
+  left:50%;
 }
